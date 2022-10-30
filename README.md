@@ -9,7 +9,7 @@ Noffie - Creator of the 2 Stroke Engine Simulator (Edited AngeTheGreat's source 
 
 Usage disclaimer.
 
-For anyone using this software, you agree to the fact that:
+For anyone using this software, you agree to the following terms:
 
 1. Credit must be given if you make a video on this both to Noffie and AngeTheGreat
 
