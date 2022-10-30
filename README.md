@@ -1,13 +1,13 @@
 # Welcome to the 2-Stroke Engine Simulator
 
-Credits:
+## Credits:
 
 AngeTheGreat - Original creator of Engine Simulator and has made all of this possible
 
 Noffie - Creator of the 2 Stroke Engine Simulator (Edited AngeTheGreat's source code)
 
 
-Usage disclaimer.
+## Usage disclaimer.
 
 For anyone using this software, you agree to the following terms:
 
@@ -21,7 +21,7 @@ https://discord.gg/ddErkEnTbn
 
 For any questions about the 2 Stroke Engine Simulator DM Noffie#0001.
 
-Added Features:
+## Added Features:
 
 -Pressing 5 will make the simulator run 0.3 times faster
 -pressing 6 will make the simulator run 0.5 times faster
